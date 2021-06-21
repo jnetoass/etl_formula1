@@ -1,0 +1,20 @@
+Pessoal, informações gerais:
+1. Sugestão de script para a apresentação:
+	1.1. Apresentação dos integrantes do grupo.
+	1.2. Formato de divisão das atividades.
+	1.3. MER e/ou DER do Relacional
+	1.4. Banco de Dados relacional Físico
+	1.5. MER e/ou DER do DW
+	1.6. DW Físico
+	1.7. Notebook
+		1.7.1. Forma de carregamento dos dados do DW
+		1.7.2. Respostas das perguntas no desafio
+		1.7.3. Análises adicionais (caso aplicável)
+			1.7.3.1. Informar que a partir deste momento o desafio já foi concluído e que análises complementares foram realizadas.
+			1.7.3.1. Passar pelos itens adicionais
+	1.8. Conclusões
+
+2. Todo DW precisa de uma dimensão de datas.
+3. A forma de carregamento dos bancos (relacional e DW) não será avaliada, façam da maneira que for mais confortável para vocês.
+4. Todos os profissionais da banca são técnicos, não precisam entrar no detalhe de tipo de dados de um campo ou algo neste sentido, 10 minutos voam!
+5. Todas as análises devem ser feitas nos notebooks, a partir das informações do DW.
